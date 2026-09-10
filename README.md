@@ -21,6 +21,10 @@ Disciplina inicial da faculdade que introduz conceitos básicos da programação
 * Funções
 * Structs
 * Ponteiros
+
+ Link para o repositório:
+  https://github.com/marrathomaz/APC-2025.1
+  
 ## OO (Orientação a Objetos)
 * Fundamentos
 * Herança
@@ -28,6 +32,9 @@ Disciplina inicial da faculdade que introduz conceitos básicos da programação
 * Abstração
 * Relacionamento entre Objetos
 * UML
+
+Link para o repositório:
+https://github.com/marrathomaz/OO-2025.2
 ## EDA 1 (Estruturas de Dados 1) 
 * Ponteiros
 * Struct
