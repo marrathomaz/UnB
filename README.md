@@ -9,6 +9,9 @@ para uso de consulta caso necessário em outros trabalhos.
 * Orientação a Objetos
 * Estruturas de Dados 1
 * Métodos de Desenvolvimento de Software
+* Estruturas de Dados 2
+* Projeto de Extensão - AI Lab Makers
+  
 
 ## APC (Algoritmo e Programação de Computadores)
 Disciplina inicial da faculdade que introduz conceitos básicos da programação, tais como:
